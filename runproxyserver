@@ -1,4 +1,5 @@
 cd Ultraviolet-App
+echo "Installing Node Package Manager"
 npm install
 echo "Starting Up UltraViolet"
 npm start
