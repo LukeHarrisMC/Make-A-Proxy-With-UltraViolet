@@ -1,0 +1,4 @@
+cd Ultraviolet-App
+npm install
+echo "Starting Up UltraViolet"
+npm start
